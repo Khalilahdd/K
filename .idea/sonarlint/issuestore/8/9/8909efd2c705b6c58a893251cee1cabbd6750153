@@ -1,0 +1,24 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(«‹Îõ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¬å¿²ÿÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(µ×‚¸úÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Øþãá
+P	java:S125/"<This block of commented-out lines of code should be removed.(µ®æ:
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ß­è
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(í€Ðèùÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(€êÄÇ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ûÇÿ¸øÿÿÿÿ
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¿Çûÿÿÿÿ8Ú×äÙÁ/
+^
+java:S1128"<Remove this unused import 'ch.qos.logback.core.db.DBHelper'.(‘îªúúÿÿÿÿ8ìòäÙÁ/
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(°ÿí¾8íòäÙÁ/
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Û„¤8íòäÙÁ/
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¸òÍæ8íòäÙÁ/
+v
+java:S1128
+"YRemove this unused import 'org.springframework.boot.autoconfigure.SpringBootApplication'.(Ë”ÖÏ8íòäÙÁ/
+n
+java:S1192T"XDefine a constant instead of duplicating this literal "å®¹å™¨ä¸­tom22ç»„ä»¶ï¼š" 3 times.(€êÄÇ
